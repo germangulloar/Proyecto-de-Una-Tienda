@@ -4,10 +4,11 @@
     <string name="text_password">Contraseña</string>
     <string name="text_welcome">Bienvenido</string>
     <string name="User">German Ulloa</string>
-    <string name="title_introduction">Introducción</string>
-    <string name="text_introduction">Android Studio es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android y está basado en IntelliJ IDEA. Además del potente editor de códigos y las herramientas para desarrolladores de IntelliJ, Android Studio ofrece incluso más funciones que aumentan tu productividad cuando desarrollas apps para Android, como las siguientes:</string>
-    <string name="properties">Venta de Propiedades</string>
-    <string name="text_properties">En lugar de usar perspectivas predeterminadas, Android Studio sigue tu contexto y te ofrece automáticamente ventanas de herramientas relevantes mientras trabajas. De manera predeterminada, las ventanas de herramientas más usadas se fijan a la barra de la ventana de herramientas en los bordes de la ventana de la app.</string>
+    <string name="title_introduction">INTRODUCCIÓN</string>
+    <string name="text_introduction">Tienda Manchos Pets es la tienda online más completa para mascotas caninas creada por pet lovers para pet lovers. Somos la tienda en línea de mascotas con mayor variedad de productos y servicios a domicilio en Bogotá (Colombia), contamos con más de 4.000 productos (alimentos, dietas naturales, snacks, medicinas, higiene y accesorios). Llegamos a toda la ciudad. Tenemos entregas el mismo día, si pides antes de las 5pm te llega el mismo día. Contamos con todos los métodos de pago: pagos online, efectivo contra entrega, datafono. y lo más importante con muy buenos precios. Manchos Pets es para todos ! En nuestra tienda encontrarás productos desde la gama económica a la súper premium. Todo un universo de soluciones para tu mascota.</string>
+    <string name="properties">SERVICIO COMUNITARIO</string>
+    <string name="text_properties">Desde Manchos Pets apoyamos y colaboramos orgánicamente y de forma activa con las casas de rescate y adopción de animales, es por esto que donamos un porcentaje de nuestras ventas mensualmente a estas causas. Para nosotros es primordial la integridad y bienestar de las mascotas. </string>
     <string name="messagpassword">contraseña invalida</string>
     <string name="messageusername">Usuario Invalido</string>
+    <string name="Home">Inicio</string>
 </resources>

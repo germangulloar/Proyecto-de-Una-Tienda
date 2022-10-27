@@ -27,12 +27,12 @@
    <ImageView
        android:layout_width="150dp"
        android:layout_height="150dp"
-       android:src="@drawable/undraw_mobile_application_re"/>
+       android:src="@drawable/xelw"/>
 
    <ImageView
        android:layout_width="150dp"
        android:layout_height="150dp"
-       android:src="@drawable/undraw_people_re"/>
+       android:src="@drawable/va"/>
 
 
    </LinearLayout>
@@ -74,6 +74,12 @@
           android:layout_width="match_parent"
           android:layout_height="wrap_content"
          android:text="Login"/>
+      <Button
+          android:id="@+id/btnRegister"
+          android:onClick="onRegister"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          android:text="Register"/>
    </LinearLayout>
 
 </LinearLayout>

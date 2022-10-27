@@ -7,7 +7,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:orientation="horizontal">
+    android:orientation="vertical">
    <androidx.appcompat.widget.Toolbar
        android:id="@+id/my_toolbar"
        android:layout_width="match_parent"
@@ -17,6 +17,10 @@
        android:elevation="4dp"
        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+      android:orientation="horizontal">
 
 <LinearLayout
     android:layout_width="wrap_content"
@@ -28,12 +32,12 @@
    <ImageView
        android:layout_width="150dp"
        android:layout_height="150dp"
-       android:src="@drawable/undraw_mobile_application_re"/>
+       android:src="@drawable/xelw"/>
 
    <ImageView
        android:layout_width="150dp"
        android:layout_height="150dp"
-       android:src="@drawable/undraw_people_re"/>
+       android:src="@drawable/va"/>
 
 
    </LinearLayout>
@@ -75,5 +79,5 @@
          android:text="Login"/>
 
    </LinearLayout>
-
+</LinearLayout>
 </LinearLayout>

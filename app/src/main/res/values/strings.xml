@@ -4,11 +4,12 @@
     <string name="text_password">Password</string>
     <string name="text_welcome">Welcome</string>
     <string name="User">German Ulloa</string>
-    <string name="title_introduction">Introduction</string>
-    <string name="text_introduction">Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA . On top of IntelliJs powerful code editor and developer tools, Android Studio offers even more features that enhance your productivity when building Android apps, such as:</string>
-    <string name="properties">Tool window</string>
-    <string name="text_properties">Instead of using preset perspectives, Android Studio follows your context and automatically brings up relevant tool windows as you work. By default, the most commonly used tool windows are pinned to the tool window bar at the edges of the application window.</string>
+    <string name="title_introduction">INTRODUCTION</string>
+    <string name="text_introduction">Manchos Pets store is the most complete online store for canine pets created by pet lovers for pet lovers. We are the online pet store with the largest variety of products and services at home in Bogotá (Colombia), we have more than 4,000 products (food, natural diets, snacks, medicines, hygiene and accessories). We reached the whole city. We have deliveries the same day, if you order before 5pm it will arrive the same day. We have all payment methods: online payments, cash on delivery, dataphone. and most importantly with very good prices. Manchos Pets is for everyone ! In our store you will find products from the economic range to the super premium. A whole universe of solutions for your pet.</string>
+    <string name="properties">COMMUNITY SERVICES</string>
+    <string name="text_properties">At Manchos Pets we support and collaborate organically and actively with animal rescue and adoption houses, which is why we donate a percentage of our monthly sales to these causes. For us, the integrity and well-being of pets is paramount.</string>
     <string name="messagpassword">Invalite Password</string>
     <string name="messageusername">Invalite User Name</string>
+    <string name="Home">Home</string>
 
 </resources>
