@@ -32,6 +32,7 @@
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
         android:src="@android:drawable/ic_input_add"
-        android:tint="@color/black"/>
+        android:tint="@color/black"
+        android:tooltipText="prueba"/>
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
