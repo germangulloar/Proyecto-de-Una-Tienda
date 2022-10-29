@@ -10,7 +10,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        />
+        android:src="@drawable/perro"/>
     <TextView
         android:id="@+id/tvTarea"
         android:layout_width="wrap_content"
